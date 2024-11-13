@@ -16,3 +16,5 @@ Par groupes de 3 :
   - Sauvegarder la modification dans l’historique
   - Publier la branche sur le repo distant
 - Pour chacun des 3 : télécharger les deux autres branches de vos collaborateurs
+
+- coucou je modifie le readme car je suis l'eleve 3
